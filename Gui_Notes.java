@@ -30,7 +30,7 @@ class Notespdf{
   JTextField jtf= new JTextField();
   jtf.setBounds(120, 62, 250, 50);
   frame.add(jtf);
-  JLabel lb2 = new JLabel("Date:");
+  JLabel lb2 = new JLabel("Topic Name:");
   lb2.setBounds(30, 130, 100, 20);
   frame.add(lb2);
   JTextField jtf1= new JTextField();
